@@ -2,7 +2,7 @@
 baseURL = 'https://kelseyhagartymcdonald.com/'
 languageCode = 'en-us'
 title = 'Kelsey Hagarty McDonald'
-theme = 'PaperMod'
+theme: jekyll-theme-minimal
 
 [params]
   ShowReadingTime = true
