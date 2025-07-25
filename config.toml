@@ -1,0 +1,13 @@
+
+baseURL = 'https://kelseyhagartymcdonald.com/'
+languageCode = 'en-us'
+title = 'Kelsey Hagarty McDonald'
+theme = 'PaperMod'
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"

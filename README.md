@@ -1,1 +1,3 @@
-# kelseyhagartymcdonald.github.io
+# Kelsey Hagarty McDonald's Site
+
+Powered by Hugo + PaperMod.
